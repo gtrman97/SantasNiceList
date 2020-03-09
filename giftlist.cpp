@@ -1,3 +1,8 @@
+/*--------------------------------------------------------
+ * Program that asks a user for a list of nice kid's names 
+ and the toys they would like then displays them. 
+ --------------------------------------------------------*/
+
 #include <iostream>
 #include <list>
 #include <vector>
